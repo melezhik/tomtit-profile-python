@@ -12,11 +12,9 @@ Tomtit scripts for Python development
     tom  --profile Tomtit-Profile-Python
 
     # run new helpers
-    tom tom python-pip-install-from-req
+    tom python-pip-install-from-req
 
-# See also
-
-* ["python-helpers"](http://sparrowhub.io/search?q=%22python-helpers%22) Sparrow plugin
+See documentation for ["python-helpers"](http://sparrowhub.io/search?q=%22python-helpers%22) Sparrow plugin.
 
 # Author
 

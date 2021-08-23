@@ -2,7 +2,7 @@
 
 use v6;
 
-unit module Tomtit::Profile::Python:ver<0.0.1>;
+unit module Tomtit::Profile::Python:ver<0.0.2>;
 
 our sub profile-data ()  is export {
   my %a is Map  = ( 
