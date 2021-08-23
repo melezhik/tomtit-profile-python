@@ -1,0 +1,30 @@
+{
+  "auth": "zef:melezhik",
+  "authors" : [
+    "Alexey Melezhik"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+  ],
+  "description" : "Tomtit scripts for Python development",
+  "license" : "Artistic-2.0",
+  "name" : "Tomtit::Profile::Python",
+  "perl" : "6.*",
+  "provides" : {
+    "Tomtit::Profile::Python" : "lib/Tomtit/Profile/Python.pm6"
+  },
+  "resources" : [
+    "cat.pl6",
+    "dog.pl6",
+    "fish.pl6"
+  ],
+  "source-type" : "git",
+  "source-url" : "https://github.com/melezhik/tomtit-profile-python",
+  "support" : {
+    "bugtracker" : "https://github.com/melezhik/tomtit-profile-python/issues",
+    "source" : "https://github.com/melezhik/tomtit-profile-python.git"
+  },
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
