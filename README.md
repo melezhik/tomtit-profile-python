@@ -14,7 +14,9 @@ Tomtit scripts for Python development
     # run new helpers
     tom python-pip-install-from-req
 
-See documentation for ["python-helpers"](http://sparrowhub.io/search?q=%22python-helpers%22) Sparrow plugin.
+# Helpers doc
+
+See ["python-helpers"](http://sparrowhub.io/search?q=%22python-helpers%22) Sparrow plugin.
 
 # Author
 
