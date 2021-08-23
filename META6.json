@@ -14,9 +14,11 @@
     "Tomtit::Profile::Python" : "lib/Tomtit/Profile/Python.pm6"
   },
   "resources" : [
-    "cat.pl6",
-    "dog.pl6",
-    "fish.pl6"
+    "python-clean-cache.pl6",
+    "python-pip-install-from-req.pl6",
+    "python-pip-uninstall-from-req.pl6",
+    "python-pip-upgrade-all.pl6",
+    "python-set-user-paths.pl6"
   ],
   "source-type" : "git",
   "source-url" : "https://github.com/melezhik/tomtit-profile-python",
